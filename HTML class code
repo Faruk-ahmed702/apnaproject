@@ -39,7 +39,7 @@
             .then(data => document.getElementById('result').innerText = data);
     }
     
-    // ✅ Load plots from backend
+    // ✅plot sbackend
     function loadPlots(){
         fetch('/plots')
         .then(res => res.json())
