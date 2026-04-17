@@ -30,5 +30,5 @@ button{
 }
 
 a{
-    color:blue;
+    color:green;
 }
