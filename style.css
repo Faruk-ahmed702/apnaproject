@@ -1,0 +1,10 @@
+﻿body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 800px;
+    height: 500px;
+    border: 3px sold black;
+}
